@@ -21,10 +21,7 @@ Node, Javascript
 6.  If you run out of letter choices before you guess the word, you will lose.
 7.  Once the game is over, you will be allowed to choose to play again or not.
 
-![](Screenshot_1.png)
-
-![](Screenshot_2.png)
-
-![](Screenshot_3.png)
-
-![](Screenshot_4.png)
+![Screenshot_1](/images/Screenshot_1.png)
+![Screenshot_2](/images/Screenshot_2.png)
+![Screenshot_3](/images/Screenshot_3.png)
+![Screenshot_4](/images/Screenshot_4.png)
