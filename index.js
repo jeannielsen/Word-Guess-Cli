@@ -70,7 +70,9 @@ function choose() {
       if (guesses > 0 && checker.indexOf("_") !== -1) {
         guesses--;
         if (guesses === 0) {
+          console.log("=======================================");
           console.log("Sorry, you lost.  Better luck next time");
+          console.log("=======================================");
           continuePrompt();
         } else {
           choose();
